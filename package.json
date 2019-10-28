@@ -1,0 +1,24 @@
+{
+  "name": "node_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagamasa/Node_Study.git"
+  },
+  "author": "Masashi Nagano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nagamasa/Node_Study/issues"
+  },
+  "homepage": "https://github.com/Nagamasa/Node_Study#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "jade": "^1.11.0"
+  }
+}
